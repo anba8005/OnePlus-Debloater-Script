@@ -20,6 +20,12 @@ adb shell pm uninstall --user 0 com.oneplus.gameinstaller
 adb shell pm uninstall --user 0 com.oneplus.gallery
 adb shell pm uninstall --user 0 com.oneplus.mall
 adb shell pm uninstall --user 0 cn.oneplus.photos
+adb shell pm uninstall --user 0 net.oneplus.forums
+adb shell pm uninstall --user 0 com.oneplus.store
+adb shell pm uninstall --user 0 com.oneplus.backuprestore
+adb shell pm uninstall --user 0 net.oneplus.weather
+adb shell pm uninstall --user 0 com.oneplus.note
+adb shell pm uninstall --user 0 com.oneplus.filemanager
 
 
 
@@ -31,3 +37,18 @@ adb shell pm uninstall --user 0 com.heytap.mcs
 adb shell pm uninstall --user 0 com.google.android.music
 adb shell pm uninstall --user 0 com.google.android.videos
 adb shell pm uninstall --user 0 com.google.android.apps.tachyon
+adb shell pm uninstall --user 0 com.google.android.googlequicksearchbox
+adb shell pm uninstall --user 0 com.google.android.apps.wellbeing
+adb shell pm uninstall --user 0 com.google.android.apps.youtube.music
+adb shell pm uninstall --user 0 com.google.android.projection.gearhead
+adb shell pm uninstall --user 0 com.google.android.apps.googleassistant
+adb shell pm uninstall --user 0 com.android.hotwordenrollment.xgoogle
+adb shell pm uninstall --user 0 com.android.hotwordenrollment.okgoogle
+adb shell pm uninstall --user 0 com.google.android.apps.subscriptions.red
+adb shell pm uninstall --user 0 com.google.android.apps.magazines
+adb shell pm uninstall --user 0 com.google.android.apps.walletnfcrel
+adb shell pm uninstall --user 0 com.google.android.apps.podcasts
+adb shell pm uninstall --user 0 com.netflix.partner.activation
+adb shell pm uninstall --user 0 com.netflix.mediaclient
+
+
