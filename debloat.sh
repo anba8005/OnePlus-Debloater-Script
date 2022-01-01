@@ -50,7 +50,7 @@ adb shell pm uninstall --user 0 com.google.android.apps.walletnfcrel
 adb shell pm uninstall --user 0 com.google.android.apps.podcasts
 adb shell pm uninstall --user 0 com.netflix.partner.activation
 adb shell pm uninstall --user 0 com.netflix.mediaclient
-
+adb shell pm uninstall --user 0 com.google.android.youtube
 
 # enable dc dimming
 adb shell am start-activity -a oneplus.intent.action.ONEPLUS_LAB_FEATURE_DETAILS -e oneplus_lab_feature_key oneplus_dc_dimming_value
